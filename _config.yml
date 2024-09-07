@@ -24,10 +24,10 @@ author:
   avatar           : "profile.jpg"
   name             : "程胜杰"
   # pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "大连理工大学计算机科学与技术博士在读，主要研究方向是目标检测、目标分割和具身智能机器人。"
   location         : "中国"
   employer         : "大连理工大学"
-  uri              : # URL
+  # uri              : ## URL
   email            : "shengjiepdsu@163.com" 
 
   # Academic websites
