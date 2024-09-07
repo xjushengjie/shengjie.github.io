@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "中国"
-title                    : "程胜杰"
+title                    : "个人简历"
 title_separator          : "-"
 # name                     : &name "Your Name"
 # description              : &description "personal description"
@@ -22,8 +22,8 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
+  name             : "程胜杰"
+  # pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
   employer         : "Red Brick University"
